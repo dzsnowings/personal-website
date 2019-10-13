@@ -1,0 +1,46 @@
+/*
+<?--Test sentence: The quick brown fox jumps over the lazy dog.-->
+<?--Headers: Acme, Righteous, Berkshire Swash, Audiowide, Spicy Rice-->
+<?--Sub-headers: Acme, Righteous, Berkshire Swash, Audiowide, Spicy Rice, Grand Hotel-->
+<?--Paragraphs: Cherry Swash, Comfortaa, Grenze, Josefin Sans, Lato, Montserrat, Play, Raleway, Ubuntu-->
+    <?--Round: Comfortaa, Montserrat, Raleway, Ubuntu-->
+    <?--Simple: Montserrat, Lato-->
+    <?--Fancy: Cherry Swash, Grenze, Play, Josefin Sans-->
+<?--Similar: Comfortaa, Montserrat, Raleway, Josefin Sans; Ubuntu-->
+<?--Sets: Berkshire Swash/Grand Hotel/Cherry Swash; Spicy Rice/Acme; Audiowide/Play|Ubuntu|Comfortaa|Josefin Sans|Montserrat|Lato; Righteous/Josefin Sans-->
+
+font-family: 'Acme', sans-serif;
+font-family: 'Audiowide', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Cherry Swash', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Grenze', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Spicy Rice', cursive;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body {
+    background-color: #dbebff;
+    color: #00054c;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+    font-family: 'Cherry Swash', cursive;
+}
